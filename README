@@ -1,0 +1,10 @@
+Tools for Development
+---------------------
+
+    GLOG        -   Shell script to export files for a git commit as tar.
+                    File:
+                        glog.sh
+                    Usage:
+                        sh glog.sh <commit id>
+                    Author: Susruthan Seran <seran@radus28.com>
+                    Date: 25-11-2016
